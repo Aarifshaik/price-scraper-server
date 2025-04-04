@@ -86,7 +86,7 @@ def scrape():
                     color_images = data.get("colorImages", {}).get("initial", [])
                     image_urls = [img.get("hiRes") for img in color_images if "hiRes" in img]
                     logging.info(f"✅ Successfully scraped product: {product_title}")
-                    return jsonify({'title': product_title, 'price': 'price', 'discount': discount_text, 'mrp': mrp_text, 'images': image_urls})
+                    return jsonify({'title': product_title, 'price': price , 'discount': discount_text, 'mrp': mrp_text, 'images': image_urls})
                 except json.JSONDecodeError:
                     logging.error("❌ JSON parsing error, returning product details with default image")
         else:

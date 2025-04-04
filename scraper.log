@@ -1,0 +1,240 @@
+2025-04-04 02:00:28,913 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:00:28,975 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+2025-04-04 02:00:28,976 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 02:00:28,977 - INFO -  * Restarting with stat
+2025-04-04 02:00:29,414 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:00:29,428 - WARNING -  * Debugger is active!
+2025-04-04 02:00:29,433 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 02:00:35,057 - INFO - 127.0.0.1 - - [04/Apr/2025 02:00:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-04 02:00:35,206 - INFO - 127.0.0.1 - - [04/Apr/2025 02:00:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-04 02:01:01,910 - INFO - 127.0.0.1 - - [04/Apr/2025 02:01:01] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-04 02:01:07,738 - INFO - 🔄 Processing URL: https://amzn.in/d/dVnLg38
+2025-04-04 02:01:12,888 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 02:01:12,889 - INFO - 127.0.0.1 - - [04/Apr/2025 02:01:12] "GET /scrape?url=https://amzn.in/d/dVnLg38 HTTP/1.1" 200 -
+2025-04-04 02:19:38,718 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:19:38,747 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+2025-04-04 02:19:38,747 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 02:19:38,748 - INFO -  * Restarting with stat
+2025-04-04 02:19:39,156 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:19:39,171 - WARNING -  * Debugger is active!
+2025-04-04 02:19:39,174 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 02:21:18,700 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:21:18,721 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+2025-04-04 02:21:18,721 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 02:21:18,722 - INFO -  * Restarting with stat
+2025-04-04 02:21:19,152 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:21:19,165 - WARNING -  * Debugger is active!
+2025-04-04 02:21:19,168 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 02:22:59,334 - INFO - 🔄 Processing URL: https://www.amazon.in/dp/B0C9WGGZT9
+2025-04-04 02:23:02,396 - INFO - ✅ Successfully scraped product: Crucial® X10 Pro 1TB Portable SSD
+2025-04-04 02:23:02,398 - INFO - 192.168.0.112 - - [04/Apr/2025 02:23:02] "GET /scrape?url=https://www.amazon.in/dp/B0C9WGGZT9 HTTP/1.1" 200 -
+2025-04-04 02:23:11,616 - INFO - 🔄 Processing URL: https://www.amazon.in/dp/B0C9WGGZT9
+2025-04-04 02:23:14,772 - INFO - ✅ Successfully scraped product: Crucial® X10 Pro 1TB Portable SSD
+2025-04-04 02:23:14,773 - INFO - 192.168.0.112 - - [04/Apr/2025 02:23:14] "GET /scrape?url=https://www.amazon.in/dp/B0C9WGGZT9 HTTP/1.1" 200 -
+2025-04-04 02:23:20,848 - INFO - 🔄 Processing URL: https://www.amazon.in/dp/B0C9WGGZT9
+2025-04-04 02:23:23,505 - INFO - ✅ Successfully scraped product: Crucial® X10 Pro 1TB Portable SSD
+2025-04-04 02:23:23,506 - INFO - 192.168.0.112 - - [04/Apr/2025 02:23:23] "GET /scrape?url=https://www.amazon.in/dp/B0C9WGGZT9 HTTP/1.1" 200 -
+2025-04-04 02:23:34,525 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 02:23:34,582 - INFO -  * Restarting with stat
+2025-04-04 02:23:35,011 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:23:35,027 - WARNING -  * Debugger is active!
+2025-04-04 02:23:35,030 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 02:23:37,039 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 02:23:37,067 - INFO -  * Restarting with stat
+2025-04-04 02:23:37,482 - INFO - 🚀 Scraper server is starting...
+2025-04-04 02:23:37,494 - WARNING -  * Debugger is active!
+2025-04-04 02:23:37,496 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 02:23:37,503 - INFO - 🔄 Processing URL: https://www.amazon.in/dp/B0C9WGGZT9
+2025-04-04 02:23:40,151 - INFO - ✅ Successfully scraped product: Crucial® X10 Pro 1TB Portable SSD
+2025-04-04 02:23:40,152 - INFO - 192.168.0.112 - - [04/Apr/2025 02:23:40] "GET /scrape?url=https://www.amazon.in/dp/B0C9WGGZT9 HTTP/1.1" 200 -
+2025-04-04 16:58:12,681 - INFO - 🚀 Scraper server is starting...
+2025-04-04 16:58:12,743 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.136.12.43:5000
+2025-04-04 16:58:12,743 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 16:58:12,745 - INFO -  * Restarting with stat
+2025-04-04 16:58:13,366 - INFO - 🚀 Scraper server is starting...
+2025-04-04 16:58:13,383 - WARNING -  * Debugger is active!
+2025-04-04 16:58:13,386 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:07:37,669 - INFO - 10.136.117.171 - - [04/Apr/2025 17:07:37] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-04 17:07:37,987 - INFO - 10.136.117.171 - - [04/Apr/2025 17:07:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-04 17:07:46,571 - INFO - 10.136.12.43 - - [04/Apr/2025 17:07:46] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-04 17:07:46,760 - INFO - 10.136.12.43 - - [04/Apr/2025 17:07:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-04 17:08:56,271 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:08:59,610 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:08:59,611 - INFO - 10.136.117.171 - - [04/Apr/2025 17:08:59] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:09:12,634 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:09:12,683 - INFO -  * Restarting with stat
+2025-04-04 17:09:13,106 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:09:13,119 - WARNING -  * Debugger is active!
+2025-04-04 17:09:13,122 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:09:14,038 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:09:16,850 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:09:16,851 - INFO - 10.136.117.171 - - [04/Apr/2025 17:09:16] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:09:20,313 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:09:23,097 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:09:23,097 - INFO - 10.136.117.171 - - [04/Apr/2025 17:09:23] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:09:30,169 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:09:30,223 - INFO -  * Restarting with stat
+2025-04-04 17:09:30,664 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:09:30,677 - WARNING -  * Debugger is active!
+2025-04-04 17:09:30,680 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:09:31,689 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:09:31,720 - INFO -  * Restarting with stat
+2025-04-04 17:09:32,138 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:09:32,152 - WARNING -  * Debugger is active!
+2025-04-04 17:09:32,155 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:09:32,554 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:09:35,503 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:09:35,504 - INFO - 10.136.117.171 - - [04/Apr/2025 17:09:35] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:10:56,767 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:10:59,734 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:10:59,735 - INFO - 10.136.117.171 - - [04/Apr/2025 17:10:59] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:11:03,788 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:11:06,863 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:11:06,863 - INFO - 10.136.117.171 - - [04/Apr/2025 17:11:06] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:13:13,487 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:13:16,717 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:13:16,718 - INFO - 10.136.117.171 - - [04/Apr/2025 17:13:16] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:13:20,606 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:13:23,871 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:13:23,872 - INFO - 10.136.117.171 - - [04/Apr/2025 17:13:23] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:13:31,644 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:13:34,568 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:13:34,569 - INFO - 10.136.117.171 - - [04/Apr/2025 17:13:34] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:01,358 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:04,423 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:04,424 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:04] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:06,069 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:09,063 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:09,064 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:09] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:10,769 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:14:10,817 - INFO -  * Restarting with stat
+2025-04-04 17:14:11,254 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:14:11,269 - WARNING -  * Debugger is active!
+2025-04-04 17:14:11,273 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:14:11,279 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:14,342 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:14,342 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:14] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:17,549 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:20,561 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:20,562 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:20] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:21,943 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:25,117 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:25,118 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:25] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:26,193 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:29,167 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:29,167 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:29] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:34,874 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:35,378 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:14:35,421 - INFO -  * Restarting with stat
+2025-04-04 17:14:35,826 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:14:35,838 - WARNING -  * Debugger is active!
+2025-04-04 17:14:35,842 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:14:38,438 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:41,271 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:41,272 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:41] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:50,570 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:53,601 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:53,601 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:53] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:54,758 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:14:57,739 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:14:57,740 - INFO - 10.136.117.171 - - [04/Apr/2025 17:14:57] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:14:58,889 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:14:58,962 - INFO -  * Restarting with stat
+2025-04-04 17:14:59,402 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:14:59,417 - WARNING -  * Debugger is active!
+2025-04-04 17:14:59,420 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:15:00,687 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:15:03,744 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:15:03,745 - INFO - 10.136.117.171 - - [04/Apr/2025 17:15:03] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:15:15,455 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:15:15,505 - INFO -  * Restarting with stat
+2025-04-04 17:15:15,929 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:15:15,941 - WARNING -  * Debugger is active!
+2025-04-04 17:15:15,945 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:15:16,954 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:15:16,985 - INFO -  * Restarting with stat
+2025-04-04 17:15:17,452 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:15:17,466 - WARNING -  * Debugger is active!
+2025-04-04 17:15:17,469 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:23:12,774 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:23:16,135 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:23:16,136 - INFO - 10.136.117.171 - - [04/Apr/2025 17:23:16] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:23:26,599 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:23:29,947 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:23:29,948 - INFO - 10.136.117.171 - - [04/Apr/2025 17:23:29] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:23:32,102 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:23:35,128 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:23:35,128 - INFO - 10.136.117.171 - - [04/Apr/2025 17:23:35] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:23:36,337 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:23:39,312 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:23:39,313 - INFO - 10.136.117.171 - - [04/Apr/2025 17:23:39] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:23:40,289 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:23:43,287 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:23:43,287 - INFO - 10.136.117.171 - - [04/Apr/2025 17:23:43] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:24:06,299 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:24:09,475 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:24:09,476 - INFO - 10.136.117.171 - - [04/Apr/2025 17:24:09] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:24:18,455 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:24:18,493 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:24:18,562 - INFO -  * Restarting with stat
+2025-04-04 17:24:18,990 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:24:19,003 - WARNING -  * Debugger is active!
+2025-04-04 17:24:19,006 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:24:20,775 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:24:23,846 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:24:23,847 - INFO - 10.136.117.171 - - [04/Apr/2025 17:24:23] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:26:33,466 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:26:36,683 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:26:36,684 - INFO - 10.136.117.171 - - [04/Apr/2025 17:26:36] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-04 17:26:41,248 - INFO -  * Detected change in 'C:\\Users\\Aarif\\Desktop\\PriceServer\\server.py', reloading
+2025-04-04 17:26:41,305 - INFO -  * Restarting with stat
+2025-04-04 17:26:54,194 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:26:54,216 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.136.12.43:5000
+2025-04-04 17:26:54,216 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 17:26:54,217 - INFO -  * Restarting with stat
+2025-04-04 17:26:54,621 - INFO - 🚀 Scraper server is starting...
+2025-04-04 17:26:54,634 - WARNING -  * Debugger is active!
+2025-04-04 17:26:54,637 - INFO -  * Debugger PIN: 121-234-575
+2025-04-04 17:26:58,324 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-04 17:27:01,330 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-04 17:27:01,331 - INFO - 10.136.117.171 - - [04/Apr/2025 17:27:01] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-05 01:31:25,569 - INFO - 🚀 Scraper server is starting...
+2025-04-05 01:31:25,644 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.106:5000
+2025-04-05 01:31:25,644 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-05 01:31:25,646 - INFO -  * Restarting with stat
+2025-04-05 01:31:26,132 - INFO - 🚀 Scraper server is starting...
+2025-04-05 01:31:26,146 - WARNING -  * Debugger is active!
+2025-04-05 01:31:26,152 - INFO -  * Debugger PIN: 121-234-575
+2025-04-05 01:31:48,674 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-05 01:31:51,806 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-05 01:31:51,808 - INFO - 192.168.0.105 - - [05/Apr/2025 01:31:51] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-05 01:32:03,067 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-05 01:32:06,134 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-05 01:32:06,135 - INFO - 192.168.0.105 - - [05/Apr/2025 01:32:06] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-05 01:34:45,396 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-05 01:34:48,477 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-05 01:34:48,478 - INFO - 192.168.0.105 - - [05/Apr/2025 01:34:48] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-05 01:35:11,907 - INFO - 🔄 Processing URL: https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/
+2025-04-05 01:35:15,174 - INFO - ✅ Successfully scraped product: Zebronics ZEB-KM2100 Multimedia USB Keyboard Comes with 114 Keys Including 12 Dedicated Multimedia Keys & with Rupee Key
+2025-04-05 01:35:15,174 - INFO - 192.168.0.105 - - [05/Apr/2025 01:35:15] "GET /scrape?url=https://www.amazon.in/Zebronics-Km2100-Multimedia-USB-Keyboard/dp/B077T3BG5L/ HTTP/1.1" 200 -
+2025-04-05 01:36:10,053 - INFO - 🔄 Processing URL: https://www.amazon.in/dp/B0C9WGGZT9
+2025-04-05 01:36:12,916 - INFO - ✅ Successfully scraped product: Crucial® X10 Pro 1TB Portable SSD
+2025-04-05 01:36:12,919 - INFO - 192.168.0.105 - - [05/Apr/2025 01:36:12] "GET /scrape?url=https://www.amazon.in/dp/B0C9WGGZT9 HTTP/1.1" 200 -
